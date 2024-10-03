@@ -185,3 +185,12 @@ body {
     font-weight: 500;
     margin-top: 12px;
 }
+
+@media (max-width : 450px){
+    .container{
+        width: 300px;
+    }
+    .weather-details{
+        padding: 0px;
+    }
+}
